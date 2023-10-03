@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kipngeno-Ruto
-- 👀 I’m interested in Data Analytics and Machine Learning
-- 🌱 I’m currently learning python for Data for Data Science
-- 💞️ I’m looking to collaborate on machine learning projects
+- 👀 I’m a Data Modeler
+- 🌱 I’m currently learning Azure
+- 💞️ I’m looking to collaborate on Azure projects
 - 📫 How to reach me twitter; https://twitter.com/VictorutoML
 
 <!---
